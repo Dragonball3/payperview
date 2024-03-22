@@ -2,15 +2,15 @@
 
 ################ Pay Per View #########################
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://as2.ftcdn.net/v2/jpg/03/27/49/57/1000_F_327495740_sdtdvOzTL3c0pC87q4pSvUxLhQEfyOJh.jpg" group-title="Fight Pay Per View",Boxing PPV
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://as2.ftcdn.net/v2/jpg/03/27/49/57/1000_F_327495740_sdtdvOzTL3c0pC87q4pSvUxLhQEfyOJh.jpg" group-title="Fight Pay Per View",Boxing PPV (Bell vs Romero)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium160/index.m3u8|Origin=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium69/index.m3u8|Origin=https://claplivehdplay.ru/
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://as2.ftcdn.net/v2/jpg/03/27/49/57/1000_F_327495740_sdtdvOzTL3c0pC87q4pSvUxLhQEfyOJh.jpg" group-title="Fight Pay Per View",MMA PPV
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://as2.ftcdn.net/v2/jpg/03/27/49/57/1000_F_327495740_sdtdvOzTL3c0pC87q4pSvUxLhQEfyOJh.jpg" group-title="Fight Pay Per View",MMA PPV (BKFC 58)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium161/index.m3u8|Origin=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium55/index.m3u8|Origin=https://claplivehdplay.ru/
 
 #EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA Pay Per View",NBA League Pass Ch9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
