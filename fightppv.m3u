@@ -12,97 +12,17 @@ https://a.trykevin.shop/daznc-1c.m3u8
 #EXTVLCOPT:http-referrer=https://bestsolaris.com/
 https://fldcsu56kf.azureedge.net/live/b1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV (m3u8)",DAZN PPV 3 Haney vs Garcia Boxing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium154/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV (m3u8)",DAZN PPV 4 Haney vs Garcia Boxing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium155/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV (m3u8)",DAZN PPV 5 Haney vs Garcia Boxing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium55/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV (m3u8)",ESPN+ UFC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV (m3u8)",ESPN PPV Stevenson vs Harutyunyan Boxing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://nbastreamswatch.com/
-https://a.trykevin.shop/ufcd-1c.m3u8
+https://b.trybrett.shop/boxbox-1d.m3u8
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium9/index.m3u8|Origin=https://claplivehdplay.ru/
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV (m3u8)",DAZN PPV Zepeda vs Cabrera Boxing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://nbastreamswatch.com/
+https://b.trybrett.shop/daznd-1d.m3u8
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium8/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium7/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium6/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium5/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium4/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium3/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium2/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium10/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium11/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium13/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium14/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium15/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium12/index.m3u8|Origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV (m3u8)",NBA League Pass Ch16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium16/index.m3u8|Origin=https://claplivehdplay.ru/
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV (m3u8)",Fanmio PPV Diaz vs Masvidal Boxing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://nbastreamswatch.com/
+https://b.trybrett.shop/ppv-1.m3u8
