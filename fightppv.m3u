@@ -22,9 +22,9 @@ https://b.trybrett.shop/ppv-1.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"51057e0cd42e4dd1b61fd7c7cbb661c9":"f840402a86e55d96355f9a823712e23b","9a69efff4e104efa860bb78a943d0afd":"95b2474ced9ce6e120579d092c4e7317","07b4cc5cc14346f4b0689e6886e6a44b":"3970a22b8b5da08a7f5dd90a3dcef929"}
+#KODIPROP:inputstream.adaptive.license_key={"c16bbcda91aa4522afb97221bd217f55":"73674f597fac652891110181538f24d3","203d321801684079a4976776d07279e9":"14466c2554c27e1054be53324a2ae38b","60d793e466bd423086b230cd2b454789":"ad0f206d520085a9a00e98bcf3f764f0"}
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live 1
-https://d2z9wjihricpmd.cloudfront.net/out/v1/bb3e809f61a849f3920f443f193b113c/manifest.mpd
+https://d2z9wjihricpmd.cloudfront.net/out/v1/fd1b51dd331a4ad99ccfec8a10792a81/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
