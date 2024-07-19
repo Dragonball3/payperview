@@ -2,17 +2,17 @@
 
 ################ Pay Per View #########################
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",ESPN PPV Stevenson vs Harutyunyan Boxing
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",ESPN PPV Boxing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://nbastreamswatch.com/
 https://b.trybrett.shop/box-a.m3u8
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",DAZN PPV Zepeda vs Cabrera Boxing
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",DAZN PPV Boxing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://nbastreamswatch.com/
 https://b.trybrett.shop/daznd-1d.m3u8
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Fanmio PPV Diaz vs Masvidal Boxing
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Fanmio PPV Boxing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://nbastreamswatch.com/
 https://b.trybrett.shop/ppv-1.m3u8
@@ -29,6 +29,6 @@ https://d2z9wjihricpmd.cloudfront.net/out/v1/fd1b51dd331a4ad99ccfec8a10792a81/ma
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f310c2f9a980456c9d2c7ac42f79e12c":"09270c5c2e0f43c84784fd75c9a6752c","356e686dc9124cc5b40ea8de6588c648":"d53b0911a9bc6674adb72ead4fabc4ec","14e66eee934a4c7b83fd586d80572739":"cbe9f73a989057d29f466903093016fb"}
+#KODIPROP:inputstream.adaptive.license_key={"4da2fc7b74724cc5b1814801290c891f":"17bbcdaad6402d9238ddaaf12068587a","cb9340a57eaa4cc688a7257a4a8f78d1":"73e46aa4371a0a6c7173c26aff222523","3a3ce53e5c2749378af11e9ddd733625":"f7923639a237d7f435612ba0769cee85"}
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live 2
-https://d9p77qmtiq2r.cloudfront.net/out/v1/1cd91a21ee9348f4b0b62762b005c296/manifest.mpd
+https://dn0ar9vx61e9w.cloudfront.net/out/v1/a1d98539e6ac46ff88415022f91297c6/manifest.mpd
