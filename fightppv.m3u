@@ -22,13 +22,13 @@ https://b.trybrett.shop/ppv-1.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c16bbcda91aa4522afb97221bd217f55":"73674f597fac652891110181538f24d3","203d321801684079a4976776d07279e9":"14466c2554c27e1054be53324a2ae38b","60d793e466bd423086b230cd2b454789":"ad0f206d520085a9a00e98bcf3f764f0"}
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live 1
-https://d2z9wjihricpmd.cloudfront.net/out/v1/fd1b51dd331a4ad99ccfec8a10792a81/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"e5deebfe13b64878be0f2eab961f64db":"028f197eb1e60783ba3e988d3bbad979","3767cb5dc78a42e7a50d7108fe1551c0":"da1bdd57adecaa640968e63778f7766f","b282f61c72ab4452b4ea3edaa49d79a7":"105ef26efe23e967f0b6bad9a381b620"}
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live
+https://djerrqdlvyj7k.cloudfront.net/out/v1/4e30323d73eb4aa9b83b05d65f2d1eb1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4da2fc7b74724cc5b1814801290c891f":"17bbcdaad6402d9238ddaaf12068587a","cb9340a57eaa4cc688a7257a4a8f78d1":"73e46aa4371a0a6c7173c26aff222523","3a3ce53e5c2749378af11e9ddd733625":"f7923639a237d7f435612ba0769cee85"}
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live 2
-https://dn0ar9vx61e9w.cloudfront.net/out/v1/a1d98539e6ac46ff88415022f91297c6/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1bbdccb5f2be4407b8f81a536b2ee771:393c41fdad2145bcae5d6d5252d6af3c
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png",ABEMA Boxing (VPN: Japan)
+https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
