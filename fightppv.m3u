@@ -22,7 +22,7 @@ https://b.trybrett.shop/ufcd-1.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fcb67cf0d49d4cc795071003ff83a879":"f01a48f6c5ef8b4b15268f7e188e8e6b","bba73358dd2b4183908827f419c2eb95":"dd406194acc36bbdfbd958e1ded0fb57":"e5d179e86bc64abaa4deb58229613863":"7fe28f2415d03916fe5088e22ed36370"}
+#KODIPROP:inputstream.adaptive.license_key={"fcb67cf0d49d4cc795071003ff83a879":"f01a48f6c5ef8b4b15268f7e188e8e6b","bba73358dd2b4183908827f419c2eb95":"dd406194acc36bbdfbd958e1ded0fb57","e5d179e86bc64abaa4deb58229613863":"7fe28f2415d03916fe5088e22ed36370"}
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live
 https://d2z9wjihricpmd.cloudfront.net/out/v1/91168decf8544c9b9cd78cb23ffbd71a/manifest.mpd
 
