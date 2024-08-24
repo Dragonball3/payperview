@@ -29,6 +29,6 @@ https://d2z9wjihricpmd.cloudfront.net/out/v1/2da389e0bb1748bb9b8d2731462006d0/ma
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bbdccb5f2be4407b8f81a536b2ee771:393c41fdad2145bcae5d6d5252d6af3c
+#KODIPROP:inputstream.adaptive.license_key=a3539b03a7f44a0c8a9aae2fa87b4300:dfe6e38539b04d478469a2f8d7102ee4
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png",ABEMA Boxing (VPN: Japan)
 https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
