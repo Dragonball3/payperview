@@ -30,7 +30,7 @@ https://d2z9wjihricpmd.cloudfront.net/out/v1/91168decf8544c9b9cd78cb23ffbd71a/ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3147cd07146f43bca047fd930e0e9293:49737fdb48b2331ce7a2932d45634ae0
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",Lemino Live
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lemino_logo.svg/2560px-Lemino_logo.svg.png",Lemino Live
 https://live-cdn1.lemino.docomo.ne.jp/15bcd044c531aa99/out/v1/d1a49fb1a80243a2a963c18696d4a19f/index.mpd
 https://live-cdn2.lemino.docomo.ne.jp/15bcd044c531aa99/out/v1/d1a49fb1a80243a2a963c18696d4a19f/index.mpd
 
