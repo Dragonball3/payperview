@@ -29,6 +29,14 @@ https://d2z9wjihricpmd.cloudfront.net/out/v1/91168decf8544c9b9cd78cb23ffbd71a/ma
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3147cd07146f43bca047fd930e0e9293:49737fdb48b2331ce7a2932d45634ae0
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",Lemino Live
+https://live-cdn1.lemino.docomo.ne.jp/15bcd044c531aa99/out/v1/d1a49fb1a80243a2a963c18696d4a19f/index.mpd
+https://live-cdn2.lemino.docomo.ne.jp/15bcd044c531aa99/out/v1/d1a49fb1a80243a2a963c18696d4a19f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3539b03a7f44a0c8a9aae2fa87b4300:dfe6e38539b04d478469a2f8d7102ee4
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png",ABEMA Boxing (VPN: Japan)
 https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
