@@ -29,10 +29,9 @@ https://d2z9wjihricpmd.cloudfront.net/out/v1/63138be5d18b4e76aaa5185d6f413981/ma
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3147cd07146f43bca047fd930e0e9293:49737fdb48b2331ce7a2932d45634ae0
+#KODIPROP:inputstream.adaptive.license_key=7377336b0cea4e5ab7f383a65a656bfb:e5f6dcf7e05979895759bfd05749f046
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lemino_logo.svg/2560px-Lemino_logo.svg.png",Lemino Live
-https://live-cdn1.lemino.docomo.ne.jp/15bcd044c531aa99/out/v1/d1a49fb1a80243a2a963c18696d4a19f/index.mpd
-https://live-cdn2.lemino.docomo.ne.jp/15bcd044c531aa99/out/v1/d1a49fb1a80243a2a963c18696d4a19f/index.mpd
+https://live-cdn0.lemino.docomo.ne.jp/38fb45b25cdb05a1/out/v1/e91775824901455bb4a3f2477c07efb6/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
