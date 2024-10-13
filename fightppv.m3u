@@ -22,9 +22,9 @@ https://b.trybrett.shop/ufcg-1.m3u8?t=521
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"67b32007830742bca0cc987b11f3c0b9":"70dfbd48fb0c2c197e39e48bcae4bbe7","4c446bae2f7b4cf4930a3b08eb505f24":"ff436ece634f2505ef61e7081fa36103","5ab1d38bbff34d4ea68d2d3682525b66":"3456946c11b0511cd0fd2de5f8dc9387","6a95571acb754ed89e83eb0cf45a8423":"b4fbc303e32fb1bec6a75f2e957711de"}
+#KODIPROP:inputstream.adaptive.license_key={"5ec98651fac94101ae3c0a1061f14aae":"b046f2cf9e632561f153bd3f8894afaf","d38f1ea1c628481e820c3ab43fd0ed47":"8c0e3a9d1f8942919d37adff4bdae942","06d98812747f425096128212a20befb0":"d5278246bd4c5bb4ec2e9523b35b4211","b485d0035b3643bfa2cf61dd0c1d6bf8":"afff4f5f18331f1706e6d2194973ea70"}
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live
-https://d2z9wjihricpmd.cloudfront.net/out/v1/0dba76b088df4d2dbfe8532916621293/manifest.mpd
+https://dn0ar9vx61e9w.cloudfront.net/out/v1/20ab4ec347e14d2da5d7511ccfd641a2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
