@@ -22,8 +22,15 @@ https://b.trybrett.shop/ufcg-1.m3u8?t=521
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"160f38f107334f9b9887f759ba7ee972":"db837bbc755d84afb90f607d61cf88e1","445b50eb645646b5b576e3f55b8656ec":"d85b4dbc8099a4a2280095df2d91bca0","483ba02f30c04feba346710d12893190":"3f53546309f6ffe465a8a82c44b96d99","c7adf71644b54c10bf7769fae7bb4191":"fa292b3a60e01b51069ebc0097fb3ff7"}
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live 1
+https://d2z9wjihricpmd.cloudfront.net/out/v1/eee0f8d561a84d1b80045e8d051bde7e/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5ec98651fac94101ae3c0a1061f14aae":"b046f2cf9e632561f153bd3f8894afaf","d38f1ea1c628481e820c3ab43fd0ed47":"8c0e3a9d1f8942919d37adff4bdae942","06d98812747f425096128212a20befb0":"d5278246bd4c5bb4ec2e9523b35b4211","b485d0035b3643bfa2cf61dd0c1d6bf8":"afff4f5f18331f1706e6d2194973ea70"}
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live 2
 https://dn0ar9vx61e9w.cloudfront.net/out/v1/20ab4ec347e14d2da5d7511ccfd641a2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
