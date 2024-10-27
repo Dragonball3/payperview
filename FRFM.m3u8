@@ -1,6 +1,6 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="" group-title="Music" group-logo="",99.5 Brgy RT Cebu
+#EXT-X-VERSION:3
+#EXTINF:10.0, 99.5 Brgy RT Cebu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Avast/126.0.0.0
 #EXTVLCOPT:http-referrer=https://www.amfmph.com/
 https://streams.amfmph.com/ssl/mteyntq1
