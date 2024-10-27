@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, 99.5 Barangay RT Cebu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Barangay_RT_99.5_Cebu.png" group-title="" group-logo="", 99.5 Barangay RT Cebu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Avast/126.0.0.0
 #EXTVLCOPT:http-referrer=https://www.amfmph.com/
 https://streams.amfmph.com/ssl/mteyntq1
