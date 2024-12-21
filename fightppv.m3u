@@ -3,9 +3,11 @@
 ################ Pay Per View #########################
 
 #EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",TNT Sport Box Office (stream1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://cricsters.org/?id=TNT2FHD
 
 #EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",TNT Sport Box Office (stream2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://cricsters.org/p2/?id=TNT2FHD
 
 #EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Box PPV Boxing
