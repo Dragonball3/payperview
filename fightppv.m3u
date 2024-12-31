@@ -44,6 +44,6 @@ https://live-cdn0.lemino.docomo.ne.jp/38fb45b25cdb05a1/out/v1/e91775824901455bb4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=917405ff4c584bddbc623a2114e0eeb8:cd716301d0f84913be8a5f861c5cb41a
+#KODIPROP:inputstream.adaptive.license_key=e0f38760667e4810ab3637334c009e4b:bb69b86f33cc4df29aa6bb4b6eed4ab3
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png",ABEMA Boxing (VPN: Japan)
 https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
