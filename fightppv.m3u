@@ -30,9 +30,9 @@ https://a.myolivia.shop/mma-1.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"97a6e7f758404d62bca592d05322aced":"9f69e1a944a06a6fc697f5cda4a01452","c0a749c6dea24467bb3674cca3ccc003":"7f8dd8c12005ab221e9793954a9e8b99","0f20b885cd7a43f1a9b1e41a6eebdd96":"de06c5eef1b1d47fc303ab8e41878d97","5d7fa967e8cb45b2af466d954ec43a8e":"2fefa4e4efd761e6e93f6b7a9d23fee6"}
+#KODIPROP:inputstream.adaptive.license_key={"a65a3a6648c543f2b9c382ed008c7d0d":"4625265282776932788e2f220342f721","728d7f0d1a9a46a38928f7fdee3871e2":"a228f34d038c64a6a5c38a200e58f71b","a36f273ab69e4180a9df483921ce177f":"ed1cc3d9531885d49b55360be6ac6ebf","df7157e41249447f912b7846241f65e5":"1dc50e5063b863c0c71043a16958f681"}
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live
-https://d2z9wjihricpmd.cloudfront.net/out/v1/94e2447e5bba4efbb8b410d3db06cc17/manifest.mpd
+https://d2z9wjihricpmd.cloudfront.net/out/v1/c23e748b385b431da6e06c14c5905d7c/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
