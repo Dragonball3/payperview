@@ -2,13 +2,13 @@
 
 ################ Pay Per View #########################
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",TNT Sport Box Office PPV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://venexstreams.tv/play/sp7aF6SypmC456ndKWpZgay6Tf7PqFc16fuzyYuiYIU/ts
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",DAZN PPV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://venexstreams.tv/play/sp7aF6SypmC456ndKWpZgQHXqehPy-cn5hKhSqRncOo/ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d04058cc45d1408095db8895eed3b4d5:7b78610cc4f845538fb9421780bed2ed
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",UFC Fight Pass PPV
+https://dice-live-us.akamaized.net/hdntl=exp=1737255727~acl=%2f*~id=85c25579-fceb-4bd6-b7bc-fe97a7a67631~data=hdntl,dWlkPTE3ODEwMnxkY2UudWZjJmlwPTE0My40NC4xNjUuNzImZXhwPTE3MzcyNTU3NTUmZWlkPTI3Nzk0OCZjaWQ9ZGNlLnVmYyZvaWQ9MTQ4JnR5cGU9TElWRQ~hmac=8f416c1587ceaec0266e7d80ec87ac931b74bd84e83c81d6890ba9ee55984880/dash/live/2005848/277948-286948/manifest-d.mpd
+https://dice-live-us.akamaized.net/dash/live/2005848/277948-286948/manifest-d.mpd?hdnea=st=1737169315~exp=1737169355~acl=/dash/live/2005848/277948-286948/*~id=85c25579-fceb-4bd6-b7bc-fe97a7a67631~data=dWlkPTE3ODEwMnxkY2UudWZjJmlwPTE0My40NC4xNjUuNzImZXhwPTE3MzcyNTU3NTUmZWlkPTI3Nzk0OCZjaWQ9ZGNlLnVmYyZvaWQ9MTQ4JnR5cGU9TElWRQ~hmac=d2d85170424e57837149e26a7ca84aed055b6cdf93d16cccfef88914c48ce4e5&opId=148&cc=PH&ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMS4wLjAuMCBTYWZhcmkvNTM3LjM2&sd=PH-CENTRAL+VISAYAS
 
 #EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Box PPV Boxing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
