@@ -7,32 +7,42 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d04058cc45d1408095db8895eed3b4d5:7b78610cc4f845538fb9421780bed2ed
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",UFC Fight Pass PPV
-https://dice-live-us.akamaized.net/hdntl=exp=1737255727~acl=%2f*~id=85c25579-fceb-4bd6-b7bc-fe97a7a67631~data=hdntl,dWlkPTE3ODEwMnxkY2UudWZjJmlwPTE0My40NC4xNjUuNzImZXhwPTE3MzcyNTU3NTUmZWlkPTI3Nzk0OCZjaWQ9ZGNlLnVmYyZvaWQ9MTQ4JnR5cGU9TElWRQ~hmac=8f416c1587ceaec0266e7d80ec87ac931b74bd84e83c81d6890ba9ee55984880/dash/live/2005848/277948-286948/manifest-d.mpd
+#https://dice-live-us.akamaized.net/hdntl=exp=1737255727~acl=%2f*~id=85c25579-fceb-4bd6-b7bc-fe97a7a67631~data=hdntl,dWlkPTE3ODEwMnxkY2UudWZjJmlwPTE0My40NC4xNjUuNzImZXhwPTE3MzcyNTU3NTUmZWlkPTI3Nzk0OCZjaWQ9ZGNlLnVmYyZvaWQ9MTQ4JnR5cGU9TElWRQ~hmac=8f416c1587ceaec0266e7d80ec87ac931b74bd84e83c81d6890ba9ee55984880/dash/live/2005848/277948-286948/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Amazon Boxing PPV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
-https://windnew.koskoros.ru/wind/premium59/mono.m3u8|Origin=https://gamerushplay.cfd
+#https://windnew.koskoros.ru/wind/premium59/mono.m3u8|Origin=https://gamerushplay.cfd
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",DAZN Boxing PPV
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",UFC Fight Pass 105
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
-https://ddy6new.koskoros.ru/ddy6/premium55/mono.m3u8|Origin=https://gamerushplay.cfd
+https://ddy6new.koskoros.ru/ddy6/premium105/mono.m3u8|Origin=https://gamerushplay.cfd
+
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",BKFC PPV 106
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
+https://ddy6new.koskoros.ru/ddy6/premium106/mono.m3u8|Origin=https://gamerushplay.cfd
+
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Triller TV 107
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
+https://ddy6new.koskoros.ru/ddy6/premium107/mono.m3u8|Origin=https://gamerushplay.cfd
+
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",DAZN PPV 108
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
+https://ddy6new.koskoros.ru/ddy6/premium108/mono.m3u8|Origin=https://gamerushplay.cfd
+
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",PPV Feed 109
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
+https://ddy6new.koskoros.ru/ddy6/premium109/mono.m3u8|Origin=https://gamerushplay.cfd
 
 #EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Box PPV Boxing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://nbastreamswatch.com/
-https://a.myolivia.shop/box.m3u8
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Box1 PPV Boxing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com/
-https://a.myolivia.shop/box-1.m3u8
-
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",MMA or Boxing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com/
-https://a.myolivia.shop/mma-1.m3u8
+#https://a.myolivia.shop/box.m3u8
 
 ################################ U-Next ###########################################
 
@@ -56,5 +66,5 @@ https://live-cdn0.lemino.docomo.ne.jp/15bcd044c531aa99/out/v1/3fa8484ed51b4d2dbd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a92a71b0f3e4cda87d02093a3a2e623:eb9238a07cf34516b37f6fe5a6565f3d
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png",ABEMA Boxing
-#https://buabua-zeta.vercel.app/https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
-https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
+https://buabua-zeta.vercel.app/https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
+#https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
