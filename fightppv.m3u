@@ -54,10 +54,9 @@ https://ddy6new.newkso.ru/ddy6/premium109/mono.m3u8|Origin=https://gamerushplay.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"45374ac1c0d5499f8164564b11bfa66e":"f66a5cf81ba9dd6955ffe5d48941116a","5f905579460c4d3383e40517678596a6":"a81177fd4d89fd76c4346a99daf7f815","920a024d860a43a6a062073fcdee023c":"90c608686aeb690a33a30eac21473945","0ddacb9c28c445f19fa9ce5484fdba1e":"fd4f2ad7ce0e04670c09c60f92233ee4"}
+#KODIPROP:inputstream.adaptive.license_key={"44ccd4421f2845848d250a0c88d555fc":"b436ce936d154944a61636629f9f77b6","8d26edd6e75d4ee4a0fa77e19bdd9bd5":"0cb576d80249e8f576687ad10acd4877","6153d21954f64e19ae163d424c1ba88e":"1f479748fefbb33e02ee9aaa73c30160","edd5ed6203eb4d11b58b7a49eb31be96":"bf3fa52268282b2c9e8c46bb38457118"}
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live
-https://live01dev.cg.nxtv.jp/cf51/out/v1/d036b991784f4d00947c49313c853f80/manifest.mpd
-#https://d2z9wjihricpmd.cloudfront.net/out/v1/28dd98ee0f364929a3859b7f74ae1735/manifest.mpd
+https://d2z9wjihricpmd.cloudfront.net/out/v1/6253323db23b4f60b1e56bff2da57ce7/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
