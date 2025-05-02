@@ -9,10 +9,10 @@
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",UFC Fight Pass PPV
 #https://dice-live-us.akamaized.net/hdntl=exp=1737255727~acl=%2f*~id=85c25579-fceb-4bd6-b7bc-fe97a7a67631~data=hdntl,dWlkPTE3ODEwMnxkY2UudWZjJmlwPTE0My40NC4xNjUuNzImZXhwPTE3MzcyNTU3NTUmZWlkPTI3Nzk0OCZjaWQ9ZGNlLnVmYyZvaWQ9MTQ4JnR5cGU9TElWRQ~hmac=8f416c1587ceaec0266e7d80ec87ac931b74bd84e83c81d6890ba9ee55984880/dash/live/2005848/277948-286948/manifest-d.mpd
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Amazon Boxing PPV
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV", Boxing PPV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
-https://windnew.newkso.ru/wind/premium59/mono.m3u8|Origin=https://gamerushplay.cfd
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+https://windnew.newkso.ru/wind/premium59/mono.m3u8|Origin=https://caq21harderv991gpluralplay.xyz
 
 #EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",ESPN+ USA (Torrez Jr.)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
