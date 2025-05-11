@@ -55,7 +55,7 @@ https://live-cdn0.lemino.docomo.ne.jp/15bcd044c531aa99/out/v1/0d72e2529c3c456aad
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e6f41a9914e40cf96e60cd084f35159:a650fbb4b7d94c2f9b6d59af1e8fe89e
+#KODIPROP:inputstream.adaptive.license_key=97ced2d3f4d243cb84c4514f7e0a5e24:8909d3d5190747968c0a5a89a1c1fe2d
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png",ABEMA Boxing
 #https://buabua-zeta.vercel.app/https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
 https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
