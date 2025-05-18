@@ -5,9 +5,9 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d04058cc45d1408095db8895eed3b4d5:7b78610cc4f845538fb9421780bed2ed
+#KODIPROP:inputstream.adaptive.license_key=d346bc9900894b62a407ffbaaf3e4b90:63858ae993c342f393bf8a267ffbd738
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",UFC Fight Pass PPV
-#https://dice-live-us.akamaized.net/hdntl=exp=1737255727~acl=%2f*~id=85c25579-fceb-4bd6-b7bc-fe97a7a67631~data=hdntl,dWlkPTE3ODEwMnxkY2UudWZjJmlwPTE0My40NC4xNjUuNzImZXhwPTE3MzcyNTU3NTUmZWlkPTI3Nzk0OCZjaWQ9ZGNlLnVmYyZvaWQ9MTQ4JnR5cGU9TElWRQ~hmac=8f416c1587ceaec0266e7d80ec87ac931b74bd84e83c81d6890ba9ee55984880/dash/live/2005848/277948-286948/manifest-d.mpd
+https://dice-live-us.akamaized.net/hdntl=exp=1747623553~acl=%2f*~id=2d7538f9-ce76-4dcf-aaba-655105590c69~data=hdntl,dWlkPWRqY0VWfDI0NTU1OGMyLTliZGEtNDNhMC04YTU3LTcyOTkzYjJlYzM5NCZpcD0xNzUuMTc2LjY4LjE3NiZleHA9MTc0NzYyMzU4MiZlaWQ9Mjg0OTQ2JmNpZD1kY2UudWZjJm9pZD0xNDgmdHlwZT1MSVZF~hmac=ad443cd402a5049fb97c53bb52c7e9195251d825c1ad257c2fd5204796278a2b/dash/live/2026490/284946-294851/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Box PPV Boxing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
