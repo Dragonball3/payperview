@@ -31,12 +31,6 @@ https://bitstream.today/playlist/stream_box1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://bitstream.today/playlist/stream_nba1.m3u8
 
-#EXTINF:-1 group-title="Fight PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png", NBA Live 1
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://bitstream.today/playlist/stream_nba1.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
