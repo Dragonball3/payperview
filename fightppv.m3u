@@ -14,8 +14,8 @@ https://dice-live-us.akamaized.net/hdntl=exp=1747623553~acl=%2f*~id=2d7538f9-ce7
 #EXTVLCOPT:http-referrer=https://nbastreamswatch.com/
 #https://a.myolivia.shop/box.m3u8
 
-#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV",Canelo vs Crawford
-http://51.38.186.126:1234/stream/test2/canelo/master.m3u8?u=test&p=b6abd85d2a5ecd895c7c74bb164b0e2675474b6c7e72f741b47a7ca19e416db4
+#EXTINF:-1 tvg-id="bxng" tvg-name="BXNG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="Fight PPV", Holiday
+https://v16.thetvapp.to/hls/PPV02/tracks-v2a1/mono.m3u8?token=lLuKTWaANSw3u-353Om32A&expires=1757840635&user_id=QUpERHBSc1VpMVJ3YVRhY0dseGVnWk9lbnEwenNoSm9udjNwOEs2ZQ==
 
 ################################ U-Next ###########################################
 
