@@ -55,3 +55,6 @@ https://live-cdn2.lemino.docomo.ne.jp/15bcd044c531aa99/out/v1/3c748dccb17241249c
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AbemaTV_logo.svg/1280px-AbemaTV_logo.svg.png",ABEMA Boxing
 #https://buabua-zeta.vercel.app/https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
 https://ds-linear-abematv.akamaized.net/channel/boxing/manifest.mpd?t=&enc=&dt=&ccf=&ut=
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puso Pilipinas" tvg-logo="None" group-title="Fight PPV",Taduran vs Balunan
+https://cdn.pusop.com/5cybeiu6a575.m3u8
