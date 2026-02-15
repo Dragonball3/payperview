@@ -36,7 +36,7 @@ https://bitstream.today/playlist/stream_nba1.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b91b20ce3b2e4a0e901e4c0c4a4dc945":"ed9f21c5e5049b2bb13fb008087af14b","f8cf816da42b47e68c320cf9d7eb2167":"6de3c85925ffd90939acece9b1b29fa2","c21d0cf7bb7e408189f5bf1bf9e24d82":"b419796bd7f3c89e7389ae99e29fb3a1","d93dd7d80a974b2fb0952f1c5385befa":"49b8019d2c8247c58f7b3d2a272a5e57"}
+#KODIPROP:inputstream.adaptive.license_key={"d93dd7d80a974b2fb0952f1c5385befa":"49b8019d2c8247c58f7b3d2a272a5e57","b91b20ce3b2e4a0e901e4c0c4a4dc945":"ed9f21c5e5049b2bb13fb008087af14b","f8cf816da42b47e68c320cf9d7eb2167":"6de3c85925ffd90939acece9b1b29fa2","c21d0cf7bb7e408189f5bf1bf9e24d82":"b419796bd7f3c89e7389ae99e29fb3a1"}
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live
 https://live57.ca.nxtv.jp/out/v1/f5db40d9c1ae435687a2e2e1d4b9b6bd/manifest.mpd
 
