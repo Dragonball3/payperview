@@ -36,9 +36,9 @@ https://bitstream.today/playlist/stream_nba1.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"73f039fc29db4556a1a21e99c1f66d62":"331350b6eebc2e810fe3e760db1b811c","e45ada6efb7b45d5a47e36293b2e49d6":"ca57bdc0e31db0ede2361ae8c635cc7a","ba7470b281c74ee1a624dedb34d9b599":"7c60a69293f21f4357747eb2730dc1b9","b07b8a6ea32e41dc97ba633e1057e46c":"d9ede2664f92e4349566152501d5f627"}
+#KODIPROP:inputstream.adaptive.license_key={"3ae2df17e6984fae9ad6ef355b962f1f":"b5b25d614d6e7e636f3b7dad3f23cf93","7b683c6b0f5c4ba28a476381e2aaa21f":"90bfb502de8fd3aef50f2507717c2757","1e5f01d7c764491b947932a6a11aee13":"0b63b985e04073584ca7a11b4a6e7165","11184705e50848b484656d16419b10f7":"9b51d472361ed757bf32d3e6506d89d3"}
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live
-https://live55.ca.nxtv.jp/out/v1/118e8165b6f9476099d1fb12eb8ccbda/manifest.mpd
+https://live83.ca.nxtv.jp/out/v1/92d8b35c5e9b4574bcd2121cc87c7ac8/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
