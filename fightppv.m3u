@@ -34,7 +34,7 @@ https://bitstream.today/playlist/stream_box1.m3u8
 https://bitstream.today/playlist/stream_nba1.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=fairplay
 #KODIPROP:inputstream.adaptive.license_key={"b1904b25d2204fdaa90cbd95b49aa65f":"4c263c252f93faee9e82fa16b7031023","2ad84ff46d6e43fc90a67c616ed35664":"650bb0ccf612eeb4314f13b51aa88c55","9cac457f73ce4ee8bd3c2a9039a6d02e":"639ee5bcb52f3ad7387a5f24aaf76902","d1a535b6b10542fd9363d7f0d26a4f3d":"2413adf871755a189eb5b46280fcf460"}
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live
 https://live55.ca.nxtv.jp/out/v1/958a0e7968544b42bee7f0d0988f5a8f/live55/master.m3u8
