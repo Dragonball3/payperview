@@ -47,13 +47,6 @@ https://live55.ca.nxtv.jp/out/v1/958a0e7968544b42bee7f0d0988f5a8f/live55/master.
 #https://live01dev.cg.nxtv.jp/cf57/out/v1/e00459a4baf541a69a8e833e76999ed2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wabit-isem.ca.unext.jp/activate_token?device_id=d645cb3c-716d-432e-91d5-5baf8f3fd409&overwrite=true
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IndiLWlzZW0tcHJvZC0wMSJ9.eyJ2ZXIiOiIxLjAiLCJ1aWQiOiJib3NfUE0wMjQ4Mzg3NDEiLCJ1Z2lkIjoiYm9zXzI4NjA0MTYxIiwiand0X2giOiJsbHBfaGFzaCIsImNpZCI6Ik12aTFMQjhPL1g3Y2Y3UlRpS3RLMHlOY2hlNUdSWGlQUlR6aUMrN1NKcWM9IiwiZG9tIjoidmlkZW8iLCJ0dGwiOjM2MCwiZXgxIjoieHRva2VuOnVzZXI6bWFpbjpkaXNwbGF5aWQ9UE0wMjQ4Mzg3NDEwMDAwMDAwMDAwMDAwO2Rpc3BsYXlkdXI9MDtzcnZjZmc9U1ZPRCIsImlhdCI6MTc4ODYwMzQ5MSwiZXhwIjoxNzg4NjAzODUxfQ.bYjJgknHmDnQAWvGP1PpI8xb8hCftTWz0KdkO5skUYs"}
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="Fight PPV" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/03/U-Next.png",U-NEXT Live
-https://live55.ca.nxtv.jp/out/v1/958a0e7968544b42bee7f0d0988f5a8f/live55/master.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dcd0c3c27394939b15bb1e1a39c91fe:0b688c04b29f9f29e1e1e7b091903899
